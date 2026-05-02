@@ -1,0 +1,6 @@
+﻿l_english:
+  clear_infamy_decision: "Clear Infamy"
+  clear_infamy_decision_tooltip: "This decision clears a random infamy trait once every ten years."
+  clear_infamy_decision_desc: "You can clear one infamous trait every so often, using whatever granted you immortality you fog the minds of others."
+  clear_infamy_decision_effect_tooltip: "You can try to clear your good name"
+  clear_infamy_decision_confirm: "Yes."

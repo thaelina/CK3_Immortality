@@ -1,0 +1,18 @@
+﻿clear_infamy_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_invite_knights.dds"
+	}
+	decision_group_type = immortality_decision_group
+	cooldown = { years = 10 }
+	is_shown = {
+		clear_infamy_trigger = yes
+	}
+	is_valid_showing_failures_only = {
+		is_available_adult = yes
+	}
+	effect = {
+		custom_tooltip = clear_infamy_decision_effect_tooltip
+		clear_infamy_effect = yes
+	}
+	ai_check_interval = 0
+}

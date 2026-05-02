@@ -1,0 +1,88 @@
+﻿clear_infamy_effect = {
+	random_list = {
+    	1 = {
+    	    trigger = {
+    	    	has_trait = kinslayer_1
+    	    }
+    	    remove_trait = kinslayer_1
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = kinslayer_2
+    	    }
+    	    remove_trait = kinslayer_2
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = kinslayer_3
+    	    }
+    	    remove_trait = kinslayer_3
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = disinherited
+    	    }
+    	    remove_trait = disinherited
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = murderer
+    	    }
+    	    remove_trait = murderer
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = incestuous
+    	    }
+    	    remove_trait = incestuous
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = sodomite
+    	    }
+    	    remove_trait = sodomite
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = cannibal
+    	    }
+    	    remove_trait = cannibal
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = deviant
+    	    }
+    	    remove_trait = deviant
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = excommunicated
+    	    }
+    	    remove_trait = excommunicated
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = adulterer
+    	    }
+    	    remove_trait = adulterer
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = disloyal
+    	    }
+    	    remove_trait = disloyal
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = fornicator
+    	    }
+    	    remove_trait = fornicator
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = denounced
+    	    }
+    	    remove_trait = denounced
+    	}
+    }
+}
