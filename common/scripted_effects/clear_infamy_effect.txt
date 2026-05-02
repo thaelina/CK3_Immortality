@@ -84,5 +84,18 @@
     	    }
     	    remove_trait = denounced
     	}
+		### Sabotage and Subterfuge
+    	1 = {
+    	    trigger = {
+    	    	has_trait = sas_embezzler
+    	    }
+    	    remove_trait = sas_embezzler
+    	}
+    	1 = {
+    	    trigger = {
+    	    	has_trait = sas_plaguebringer
+    	    }
+    	    remove_trait = sas_plaguebringer
+    	}
     }
 }

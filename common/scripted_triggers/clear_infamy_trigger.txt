@@ -18,5 +18,8 @@
 		has_trait = disloyal
 		has_trait = fornicator
 		has_trait = denounced
+		### Sabotage and Subterfuge
+		has_trait = sas_embezzler 
+		has_trait = sas_plaguebringer 
 	}
 }
