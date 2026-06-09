@@ -5,15 +5,15 @@
 			if = {
 				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = beauty_good_1 
+						$DONOR$ = {
+							has_trait = beauty_good_1
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = beauty_good_1 
-								has_trait = beauty_good_2 
-								has_trait = beauty_good_3 
-							} 
+								has_trait = beauty_good_1
+								has_trait = beauty_good_2
+								has_trait = beauty_good_3
+							}
 						}
 					}
 				}
@@ -59,16 +59,16 @@
 			}
 			### Beauty 2
 			if = {
-				limit = { 
+				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = beauty_good_2 
+						$DONOR$ = {
+							has_trait = beauty_good_2
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = beauty_good_2 
-								has_trait = beauty_good_3 
-							} 
+								has_trait = beauty_good_2
+								has_trait = beauty_good_3
+							}
 						}
 					}
 				}
@@ -126,15 +126,15 @@
 			}
 			### Beauty 3
 			if = {
-				limit = { 
+				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = beauty_good_3 
+						$DONOR$ = {
+							has_trait = beauty_good_3
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = beauty_good_3 
-							} 
+								has_trait = beauty_good_3
+							}
 						}
 					}
 				}
@@ -202,15 +202,15 @@
 			if = {
 				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = intellect_good_1 
+						$DONOR$ = {
+							has_trait = intellect_good_1
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = intellect_good_1 
-								has_trait = intellect_good_2 
+								has_trait = intellect_good_1
+								has_trait = intellect_good_2
 								has_trait = intellect_good_3
-							} 
+							}
 						}
 					}
 				}
@@ -235,7 +235,6 @@
 							}
 							subtract = absorb_four_step_bonus
 						}
-
 						if = {
 							limit = {
 								has_dynasty_perk = blood_legacy_1
@@ -257,16 +256,16 @@
 			}
 			### Intellect 2
 			if = {
-				limit = { 
+				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = intellect_good_2 
+						$DONOR$ = {
+							has_trait = intellect_good_2
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = intellect_good_2 
-								has_trait = intellect_good_3 
-							} 
+								has_trait = intellect_good_2
+								has_trait = intellect_good_3
+							}
 						}
 					}
 				}
@@ -324,15 +323,15 @@
 			}
 			### Intellect 3
 			if = {
-				limit = { 
+				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = intellect_good_3 
+						$DONOR$ = {
+							has_trait = intellect_good_3
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = intellect_good_3 
-							} 
+								has_trait = intellect_good_3
+							}
 						}
 					}
 				}
@@ -400,15 +399,15 @@
 			if = {
 				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = physique_good_1 
+						$DONOR$ = {
+							has_trait = physique_good_1
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = physique_good_1 
-								has_trait = physique_good_2 
+								has_trait = physique_good_1
+								has_trait = physique_good_2
 								has_trait = physique_good_3
-							} 
+							}
 						}
 					}
 				}
@@ -454,16 +453,16 @@
 			}
 			### Physique 2
 			if = {
-				limit = { 
+				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = physique_good_2 
+						$DONOR$ = {
+							has_trait = physique_good_2
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = physique_good_2 
-								has_trait = physique_good_3 
-							} 
+								has_trait = physique_good_2
+								has_trait = physique_good_3
+							}
 						}
 					}
 				}
@@ -521,15 +520,15 @@
 			}
 			### Physique 3
 			if = {
-				limit = { 
+				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = physique_good_3 
+						$DONOR$ = {
+							has_trait = physique_good_3
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = physique_good_3 
-							} 
+								has_trait = physique_good_3
+							}
 						}
 					}
 				}
@@ -597,13 +596,13 @@
 			if = {
 				limit = {
 					AND = {
-						$DONOR$ = { 
-							has_trait = fecund 
+						$DONOR$ = {
+							has_trait = fecund
 						}
 						$IMMORTAL$ = {
 							NOR = {
-								has_trait = fecund 
-							} 
+								has_trait = fecund
+							}
 						}
 					}
 				}
@@ -635,10 +634,9 @@
 			}
 		}
 	}
-
 	$DONOR$ = {
-		death = { 
-			death_reason = death_accident 
+		death = {
+			death_reason = death_accident
 		}
 	}
 }
