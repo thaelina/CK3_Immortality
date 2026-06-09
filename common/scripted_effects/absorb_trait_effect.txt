@@ -40,13 +40,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -106,13 +110,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -179,13 +187,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -237,13 +249,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -303,13 +319,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -376,13 +396,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -434,13 +458,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -500,13 +528,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -573,13 +605,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
@@ -617,13 +653,17 @@
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_1
+								dynasty = {
+									has_dynasty_perk = blood_legacy_1
+								}
 							}
 							add = absorb_blood_legacy_one_bonus
 						}
 						if = {
 							limit = {
-								has_dynasty_perk = blood_legacy_2
+								dynasty = {
+									has_dynasty_perk = blood_legacy_2
+								}
 							}
 							add = absorb_blood_legacy_two_bonus
 						}
